@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "761090900921",
+    "project_id": "wildtrack-bae1d",
+    "storage_bucket": "wildtrack-bae1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761090900921:android:b49ec64865c778bb79ec68",
+        "android_client_info": {
+          "package_name": "com.example.wildtrack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761090900921-mq5612ditlpnujee77cvcf561ks9fsmk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWCRL25T9tF2TNkTEwk6H3MmKv5NEp7Rs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761090900921-mq5612ditlpnujee77cvcf561ks9fsmk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
