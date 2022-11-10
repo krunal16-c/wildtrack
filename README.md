@@ -10,7 +10,8 @@ This is the very basic prototype that we developed during our 36 hours Hackathon
 
 ## WildTrack Screen Shots
 
-Screen shot of Current app
+Screen shot of Current app. 
+
 <img width="200" alt="Screen Shot 2022-11-09 at 4 23 12 PM" src="https://user-images.githubusercontent.com/64957243/201228794-abf98221-b7c1-42d4-a43d-4d428ba0b98f.png">
 
 ## Installation and Setup Instructions
